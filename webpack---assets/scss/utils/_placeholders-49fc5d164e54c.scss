@@ -1,0 +1,46 @@
+@import './mixins';
+%fullscreen {
+  width: 100vw;
+  height: 100vh;
+}
+
+// origin
+
+%container {
+  width: 100vw;
+  padding-left: 40px;
+  padding-right: 40px;
+  @include max(xs) {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+// alt
+// %container {
+//   width: 100vw;
+//   padding-left: 80px;
+//   padding-right: 80px;
+//   @include max(xs) {
+//     padding-left: 16px;
+//     padding-right: 16px;
+//   }
+// }
+
+%paddings-frame {
+  --padding: var(--container-padding);
+  padding-left: var(--padding);
+  padding-right: var(--padding);
+  @include min(lg) {
+    // --padding: 11.7rem;
+  }
+  @include max(bg) {
+    // --padding: 6.6rem;
+  }
+  @include max(sm) {
+    // --padding: 4rem;
+  }
+  @include max(xs) {
+    // --padding: 1.6rem;
+  }
+}

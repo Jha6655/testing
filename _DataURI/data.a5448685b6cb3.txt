@@ -1,0 +1,1 @@
+webpack-internal:///components/HeaderWrapper.vue?vue&type=template&id=7c79dcfb&scoped=true&

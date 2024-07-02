@@ -1,0 +1,1 @@
+webpack-internal:///components/TheBox.vue?vue&type=template&id=159fb896&scoped=true&

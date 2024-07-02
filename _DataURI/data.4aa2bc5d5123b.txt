@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/@pixi/utils/node_modules/eventemitter3/index.js

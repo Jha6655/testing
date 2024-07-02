@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/@pixi/prepare/dist/esm/prepare.js

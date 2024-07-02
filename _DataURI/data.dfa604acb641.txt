@@ -1,0 +1,1 @@
+webpack-internal:///components/TheLogo.vue?vue&type=style&index=0&id=b3de179e&lang=scss&scoped=true&

@@ -1,0 +1,7 @@
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = require("../../node_modules/css-loader/dist/runtime/api.js");
+var ___CSS_LOADER_EXPORT___ = ___CSS_LOADER_API_IMPORT___(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, ".canvas-wrapper[data-v-09ed52ae] {\n  position: relative;\n  height: 100%;\n  width: 100%;\n}\n[data-v-09ed52ae] canvas {\n  position: absolute;\n  left: 0;\n  top: 0;\n  display: block;\n  width: 100%;\n  height: 100%;\n  border: 1px solid var(--color-fade-light);\n}", "",{"version":3,"sources":["webpack://components/snake/AppSnake.vue"],"names":[],"mappings":"AA+GA;EACE,kBAAA;EACA,YAAA;EACA,WAAA;AA9GF;AAgHA;EACE,kBAAA;EACA,OAAA;EACA,MAAA;EACA,cAAA;EACA,WAAA;EACA,YAAA;EACA,yCAAA;AA7GF","sourcesContent":["@import '../../assets/scss/utils/breakpoints';\n@import '../../assets/scss/utils/vars';\n@import '../../assets/scss/utils/placeholders';\n@import '../../assets/scss/utils/functions';\n@import '../../assets/scss/utils/mixins';\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.canvas-wrapper {\n  position: relative;\n  height: 100%;\n  width: 100%;\n}\n::v-deep canvas {\n  position: absolute;\n  left: 0;\n  top: 0;\n  display: block;\n  width: 100%;\n  height: 100%;\n  border: 1px solid var(--color-fade-light);\n}\n"],"sourceRoot":""}]);
+// Exports
+module.exports = ___CSS_LOADER_EXPORT___;

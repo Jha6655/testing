@@ -1,0 +1,1 @@
+webpack-internal:///components/about-page/AboutIdeaBlock.vue?vue&type=style&index=0&id=06a91204&lang=scss&scoped=true&

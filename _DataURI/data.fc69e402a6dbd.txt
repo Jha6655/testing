@@ -1,0 +1,1 @@
+webpack-internal:///components/about-page/AboutGraphics.vue?vue&type=template&id=539eb3da&scoped=true&

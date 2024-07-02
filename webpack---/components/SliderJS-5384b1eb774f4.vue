@@ -1,0 +1,1 @@
+export * from "-!../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../node_modules/vue-loader/lib/index.js??vue-loader-options!./SliderJS.vue?vue&type=template&id=195d1145&scoped=true&"

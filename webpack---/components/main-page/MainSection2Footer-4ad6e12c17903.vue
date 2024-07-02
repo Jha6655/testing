@@ -1,0 +1,1 @@
+export * from "-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./MainSection2Footer.vue?vue&type=template&id=8ed28470&scoped=true&"

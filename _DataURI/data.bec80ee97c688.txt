@@ -1,0 +1,1 @@
+webpack-internal:///components/snake/AppSnake.vue?vue&type=style&index=0&id=09ed52ae&lang=scss&scoped=true&

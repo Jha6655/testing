@@ -1,0 +1,1 @@
+webpack-internal:///components/about-page/AboutDescriptionBlock.vue?vue&type=script&lang=js&

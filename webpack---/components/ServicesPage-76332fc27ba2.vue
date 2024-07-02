@@ -1,0 +1,1 @@
+export * from "-!../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../node_modules/vue-loader/lib/index.js??vue-loader-options!./ServicesPage.vue?vue&type=template&id=66206868&scoped=true&"

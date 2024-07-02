@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./pages/contacts.vue?vue&type=template&id=538b2768&scoped=true&

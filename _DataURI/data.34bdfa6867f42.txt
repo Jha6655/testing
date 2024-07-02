@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/swiper/shared/create-element-if-not-defined.js

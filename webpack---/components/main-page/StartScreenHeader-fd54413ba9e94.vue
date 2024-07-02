@@ -1,0 +1,1 @@
+export * from "-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./StartScreenHeader.vue?vue&type=template&id=36cf41b8&scoped=true&"

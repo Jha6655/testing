@@ -1,0 +1,1 @@
+webpack-internal:///components/popups/FAQItem.vue?vue&type=style&index=0&id=a5afd848&lang=scss&scoped=true&

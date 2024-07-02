@@ -1,0 +1,1 @@
+webpack-internal:///components/snake/AppSnake.vue?vue&type=template&id=09ed52ae&scoped=true&

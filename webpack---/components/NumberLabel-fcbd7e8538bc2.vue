@@ -1,0 +1,1 @@
+export * from "-!../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../node_modules/vue-loader/lib/index.js??vue-loader-options!./NumberLabel.vue?vue&type=template&id=30e524c0&"

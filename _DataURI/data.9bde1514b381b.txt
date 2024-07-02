@@ -1,0 +1,1 @@
+webpack-internal:///pages/contacts.vue?vue&type=script&lang=js&

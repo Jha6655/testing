@@ -1,0 +1,1 @@
+webpack-internal:///pages/about.vue?vue&type=script&lang=js&

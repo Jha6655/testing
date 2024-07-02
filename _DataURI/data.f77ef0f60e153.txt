@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/@pixi/mesh/dist/esm/mesh.js

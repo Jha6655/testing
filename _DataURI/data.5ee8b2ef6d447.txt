@@ -1,0 +1,1 @@
+webpack-internal:///components/TheLoader.vue?vue&type=style&index=0&id=0dfb4719&lang=scss&scoped=true&

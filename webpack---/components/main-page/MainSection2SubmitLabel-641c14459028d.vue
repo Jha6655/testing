@@ -1,0 +1,1 @@
+export * from "-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./MainSection2SubmitLabel.vue?vue&type=template&id=724dc742&scoped=true&"

@@ -1,0 +1,1 @@
+webpack-internal:///.nuxt/components/nuxt-build-indicator.vue?vue&type=template&id=71e9e103&scoped=true&

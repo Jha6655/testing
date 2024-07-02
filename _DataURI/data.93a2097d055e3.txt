@@ -1,0 +1,1 @@
+webpack-internal:///components/main-page/MainSectionSlider.vue?vue&type=template&id=5fa0b514&scoped=true&

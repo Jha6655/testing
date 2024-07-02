@@ -1,0 +1,1 @@
+webpack-internal:///components/DotLabel.vue?vue&type=style&index=0&id=3eeaaa06&lang=scss&scoped=true&

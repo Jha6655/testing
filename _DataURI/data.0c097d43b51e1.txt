@@ -1,0 +1,1 @@
+webpack-internal:///components/about-page/AboutGraphics.vue?vue&type=style&index=0&id=539eb3da&lang=scss&scoped=true&

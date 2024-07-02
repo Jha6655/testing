@@ -1,0 +1,1 @@
+webpack-internal:///components/main-page/StartScreenDarkSection.vue?vue&type=template&id=50e76888&scoped=true&

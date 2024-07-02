@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/@pixi/filter-color-matrix/dist/esm/filter-color-matrix.js

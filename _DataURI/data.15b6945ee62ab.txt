@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./node_modules/sass-resources-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./components/form/ThanksBlock.vue?vue&type=style&index=0&id=785b0b14&lang=scss&scoped=true&

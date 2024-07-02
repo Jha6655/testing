@@ -1,0 +1,1 @@
+webpack-internal:///components/HeaderPlug.vue?vue&type=style&index=0&id=5ea93854&lang=scss&scoped=true&

@@ -1,0 +1,1 @@
+webpack-internal:///components/links/LinkSwitcherIcon.vue?vue&type=style&index=0&id=5376e1c5&lang=scss&scoped=true&

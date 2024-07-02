@@ -1,0 +1,1 @@
+webpack-internal:///components/main-page/StartScreenCanvas.vue?vue&type=template&id=741cd722&scoped=true&

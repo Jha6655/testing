@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/@pixi/polyfill/dist/esm/polyfill.js

@@ -1,0 +1,1 @@
+webpack-internal:///components/NavLinkExternal.vue?vue&type=template&id=415a561d&

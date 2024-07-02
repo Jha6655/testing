@@ -1,0 +1,1 @@
+webpack-internal:///components/main-page/MainSection2SubmitLabel.vue?vue&type=style&index=0&id=724dc742&lang=scss&scoped=true&

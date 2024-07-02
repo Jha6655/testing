@@ -1,0 +1,1 @@
+webpack-internal:///components/about-page/IdeaBlockArrow.vue?vue&type=script&lang=js&

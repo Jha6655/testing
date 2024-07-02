@@ -1,0 +1,1 @@
+webpack-internal:///components/FooterDevelopers.vue?vue&type=style&index=0&id=492ce13f&lang=scss&scoped=true&

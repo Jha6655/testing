@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/@pixi/compressed-textures/dist/esm/compressed-textures.js

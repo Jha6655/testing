@@ -1,0 +1,1 @@
+webpack-internal:///assets/fonts/SupplyFree/PPSupplyMono-Ultralight.otf

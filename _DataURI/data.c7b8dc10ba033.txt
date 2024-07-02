@@ -1,0 +1,1 @@
+webpack-internal:///components/about-page/AboutStartScreen.vue?vue&type=style&index=0&id=65380e96&lang=scss&scoped=true&

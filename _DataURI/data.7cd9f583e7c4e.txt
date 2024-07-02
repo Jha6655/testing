@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/swiper/swiper.esm.js

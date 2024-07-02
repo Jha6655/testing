@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./.nuxt/components/nuxt-build-indicator.vue?vue&type=template&id=71e9e103&scoped=true&

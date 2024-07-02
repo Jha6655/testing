@@ -1,0 +1,1 @@
+webpack-internal:///.nuxt/pwa/meta.plugin.js

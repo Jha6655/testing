@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./components/snake/AppSnake.vue?vue&type=template&id=09ed52ae&scoped=true&

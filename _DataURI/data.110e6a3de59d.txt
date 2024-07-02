@@ -1,0 +1,1 @@
+webpack-internal:///components/main-page/MainSection4Description.vue?vue&type=style&index=0&id=fc8ec346&lang=scss&scoped=true&

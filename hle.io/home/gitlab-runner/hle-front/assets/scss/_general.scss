@@ -1,0 +1,73 @@
+html {
+  font-size: 62.5%;
+  font-family: var(--font-sans-regular);
+  background-color: var(--color-dark);
+  color: var(--color-light);
+}
+html,body {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+
+  -webkit-tap-highlight-color:  rgba(255, 255, 255, 0);
+  overscroll-behavior: none;
+}
+*, *:after, *:before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+button{
+  all: unset;
+  // display: block;
+}
+a {
+  all:unset;
+}
+button, a {
+  @media (hover: hover) {
+    cursor: pointer;
+  }
+  padding: var(--link-padding);
+  margin:  var(--link-margin);
+  -webkit-tap-highlight-color: transparent;
+}
+ul {
+  display: block;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+input, input:focus,
+textarea, textarea:focus
+ {
+  border: none;
+  outline: none;
+  background-color: rgba(var(--color-dark), 0);
+}
+
+// remove input's autofill colors
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active{
+  color: var(--color-light);
+  border: none;
+  caret-color: var(--color-light) !important;
+  -webkit-text-fill-color: var(--color-light) !important;
+  transition: background-color 5000s ease-in-out 0s;
+  -webkit-box-shadow: 0 0 0px 1000px #101010 inset;
+  background-color: rgba(var(--color-dark), 0);
+}

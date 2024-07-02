@@ -1,0 +1,1 @@
+webpack-internal:///components/NumberLabel.vue?vue&type=template&id=30e524c0&

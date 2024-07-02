@@ -1,0 +1,1 @@
+webpack-internal:///components/HeaderLogo.vue?vue&type=style&index=0&id=8f33751a&lang=scss&scoped=true&

@@ -1,0 +1,32 @@
+
+
+.hover-fadeout {
+  transition: var(--transition);
+  @include min(md) {
+    &:hover {
+      opacity: 0.5;
+    }
+  }
+}
+.hover-underline {
+  transition: var(--transition);
+  position: relative;
+  &:after {
+    content: '';
+    display: block;
+    position: absolute;
+    width: calc(100% - 0.8rem);
+    height: 1px;
+    background-color: white;
+    bottom: 1rem;
+    left: 0.4rem;
+    transform: scaleX(0);
+    transform-origin: left center;
+    transition: inherit;
+  }
+}
+.hover-underline:hover:after{
+  @include min(md) {
+    transform: scaleX(1);
+  }
+}

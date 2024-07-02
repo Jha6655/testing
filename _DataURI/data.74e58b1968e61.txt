@@ -1,0 +1,1 @@
+webpack-internal:///.nuxt/nuxt-i18n/utils-common.js

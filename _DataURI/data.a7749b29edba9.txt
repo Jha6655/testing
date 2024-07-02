@@ -1,0 +1,1 @@
+webpack-internal:///components/contacts-page/ContactsFooter.vue?vue&type=style&index=0&id=742fa5af&lang=scss&scoped=true&

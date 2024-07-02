@@ -1,0 +1,1 @@
+webpack-internal:///components/TheDots.vue?vue&type=style&index=0&id=7d6eeb50&lang=scss&scoped=true&

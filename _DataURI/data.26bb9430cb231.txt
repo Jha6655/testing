@@ -1,0 +1,1 @@
+webpack-internal:///components/TheClock.vue?vue&type=template&id=43f4bbf8&scoped=true&

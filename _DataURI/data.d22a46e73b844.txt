@@ -1,0 +1,1 @@
+webpack-internal:///components/about-page/AboutIdeaBlock.vue?vue&type=template&id=06a91204&scoped=true&

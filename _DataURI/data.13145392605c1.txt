@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./components/about-page/AboutStartScreen.vue?vue&type=template&id=65380e96&scoped=true&

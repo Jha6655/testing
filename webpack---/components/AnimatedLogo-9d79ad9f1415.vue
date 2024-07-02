@@ -1,0 +1,1 @@
+import mod from "-!../node_modules/babel-loader/lib/index.js??ref--2-0!../node_modules/vue-loader/lib/index.js??vue-loader-options!./AnimatedLogo.vue?vue&type=script&lang=js&"; export default mod; export * from "-!../node_modules/babel-loader/lib/index.js??ref--2-0!../node_modules/vue-loader/lib/index.js??vue-loader-options!./AnimatedLogo.vue?vue&type=script&lang=js&"

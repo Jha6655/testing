@@ -1,0 +1,1 @@
+webpack-internal:///components/form/ThanksBlock.vue?vue&type=script&lang=js&

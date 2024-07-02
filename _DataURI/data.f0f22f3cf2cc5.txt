@@ -1,0 +1,1 @@
+webpack-internal:///components/main-page/MainSection2Labels.vue?vue&type=template&id=02a4962c&scoped=true&

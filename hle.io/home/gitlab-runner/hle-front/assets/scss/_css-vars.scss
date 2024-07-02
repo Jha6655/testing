@@ -1,0 +1,52 @@
+:root {
+  --font-mono-regular: 'PPSupplyMonoRegular';
+  --font-mono-ultralight: 'PPSupplyMonoUltralight';
+  --font-sans-regular: 'PPSupplySansRegular';
+  --font-sans-ultralight: 'PPSupplySansUltralight';
+
+  --color-light: #ffffff;
+  --color-dark: #101011;
+  --color-gray: #CBCBCB;
+  --color-grey: #CBCBCB;
+  --color-dark-gray: #bbbbbb;
+  --color-dark-grey: #bbbbbb;
+  --color-fade-light:#383838;
+  --color-dark-blue: #141334;
+  --color-accent: #32A4C3;
+  --color-error: #FD4E28;
+
+  --transition: 0.5s ease-in-out;
+  --transition-300: 0.3s ease-in-out;
+  --timing-function: cubic-bezier(0.2, 0, 0.8, 1);
+
+  --link-padding: 0.4rem;
+  --link-margin: -0.4rem;
+  --container-padding-mobile: 1.6rem;
+  --container-padding-mobile-alt: 2rem;
+  --container-padding-mobile-negative: -1.6rem;
+
+  --container-padding:11.7rem;
+}
+
+
+@include max(lg) {
+  :root {
+    --container-padding: 8.3rem;
+  }
+}
+@include max(bg) {
+  :root {
+    --container-padding: 6.6rem;
+  }
+}
+@include max(sm) {
+  :root {
+    --container-padding: 4rem;
+  }
+}
+@include max(xs) {
+  :root {
+    --container-padding: #{vw375(16)};
+  }
+}
+

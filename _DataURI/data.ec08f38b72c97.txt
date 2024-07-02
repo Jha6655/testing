@@ -1,0 +1,1 @@
+webpack-internal:///components/wheel/WheelBlock.vue?vue&type=script&lang=js&

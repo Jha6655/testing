@@ -1,0 +1,1 @@
+webpack-internal:///components/HeaderNavigation.vue?vue&type=template&id=3dec695c&scoped=true&

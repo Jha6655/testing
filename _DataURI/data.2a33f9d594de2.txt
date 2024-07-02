@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./components/main-page/MainSection2SubmitLabel.vue?vue&type=template&id=724dc742&scoped=true&

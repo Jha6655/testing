@@ -1,0 +1,1 @@
+webpack-internal:///components/HeaderLogoAnimated.vue?vue&type=style&index=0&id=1f612eb6&scoped=true&lang=scss&

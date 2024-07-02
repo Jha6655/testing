@@ -1,0 +1,1 @@
+webpack-internal:///components/contacts-page/ContactsFooter.vue

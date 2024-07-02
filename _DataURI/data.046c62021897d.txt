@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./components/FooterDevelopers.vue?vue&type=template&id=492ce13f&scoped=true&

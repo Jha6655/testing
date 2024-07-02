@@ -1,0 +1,1 @@
+webpack-internal:///components/AnimatedLogo.vue?vue&type=style&index=0&id=cb243c6e&lang=scss&scoped=true&

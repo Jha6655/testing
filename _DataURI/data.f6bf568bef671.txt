@@ -1,0 +1,1 @@
+webpack-internal:///components/buttons/SoundSwitcher.vue?vue&type=template&id=69263892&scoped=true&

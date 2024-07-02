@@ -1,0 +1,1 @@
+webpack-internal:///components/TheBox.vue?vue&type=style&index=0&id=159fb896&lang=scss&scoped=true&

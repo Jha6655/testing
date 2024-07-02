@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/@nuxtjs/i18n/node_modules/ufo/dist/index.cjs

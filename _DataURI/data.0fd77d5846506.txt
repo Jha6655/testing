@@ -1,0 +1,1 @@
+webpack-internal:///components/popups/FAQCloseButton.vue?vue&type=style&index=0&id=372f1411&lang=scss&scoped=true&
